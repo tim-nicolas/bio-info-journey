@@ -1,2 +1,2 @@
-# excercising
-A repository to upload all the small code projects I use for practice, from the start of my programming journey to now.
+A place where I will upload all my excercises from the beginning to now, aswell as bigger projects in the future.
+
